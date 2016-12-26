@@ -1,9 +1,12 @@
 {
-  "name": "ui",
-  "version": "1.0.0",
+  "name": "guru-ui",
+  "version": "1.0.1",
   "description": "A collection of VueJS components for use in mobile and desktop applications with particular reference to AppointmentGuru",
   "author": "The team at AppointmentGuru <info@appointmentguru.co>",
   "private": true,
+  "files": [
+    "src"
+  ],
   "scripts": {
     "dev": "node build/dev-server.js",
     "build": "node build/build.js",

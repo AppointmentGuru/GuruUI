@@ -3,6 +3,9 @@
 import Vue from 'vue'
 import App from './App'
 
+// var Component = require('./src/my-component.vue')
+// module.exports = Component
+
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
