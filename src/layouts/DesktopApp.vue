@@ -11,8 +11,8 @@
 </template>
 
 <script>
-import Toolbar from './components/ui/Toolbar'
-import NavDrawer from './components/ui/NavDrawer'
+import Toolbar from './../components/ui/Toolbar'
+import NavDrawer from './../components/ui/NavDrawer'
 
 export default {
   name: 'app',

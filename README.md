@@ -2,8 +2,31 @@
 
 > A collection of VueJS components for use in mobile and desktop applications with particular reference to AppointmentGuru
 
-## Usage 
+## Usage
 
+This component library consists of a number of useful components optimized for both desktop and mobile usage.
+
+### Desktop
+
+**Dependencies**
+
+* Uses Daemonite as CSS framework
+
+**Include required css**
+
+```
+
+```
+
+### Mobile
+
+* Uses OnsenUI as CSS framework
+
+**Include required css**
+
+```
+
+```
 
 
 ## Build Setup
